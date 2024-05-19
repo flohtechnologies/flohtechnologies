@@ -225,4 +225,7 @@ footer a {
         font-family: 'Nosifer', sans-serif;
         font-size: 2em;
     }
+    .imgclass {
+        width: 100%;
+    }
 }
